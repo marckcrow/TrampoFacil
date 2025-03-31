@@ -79,7 +79,7 @@ Cloberto de Sousa Gonçalves - Matrícula: 2326300
 
 🔗 Link do Projeto Publicado
 
-Acesse a plataforma online: TrampoFacil no Vercel
+Acesse a plataforma online: TrampoFacil no Vercel https://trampo-facil.vercel.app/
 
 📝 Licença
 
